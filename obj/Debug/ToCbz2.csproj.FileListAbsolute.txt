@@ -1,0 +1,14 @@
+C:\Users\maya\source\repos\ToCbz2.0\bin\Debug\ToCbz2.0.exe.config
+C:\Users\maya\source\repos\ToCbz2.0\bin\Debug\ToCbz2.0.exe
+C:\Users\maya\source\repos\ToCbz2.0\bin\Debug\ToCbz2.0.pdb
+C:\Users\maya\source\repos\ToCbz2.0\obj\Debug\ToCbz2.csprojAssemblyReference.cache
+C:\Users\maya\source\repos\ToCbz2.0\obj\Debug\ToCbz2.Form1.resources
+C:\Users\maya\source\repos\ToCbz2.0\obj\Debug\ToCbz2._0.Properties.Resources.resources
+C:\Users\maya\source\repos\ToCbz2.0\obj\Debug\ToCbz2.csproj.GenerateResource.cache
+C:\Users\maya\source\repos\ToCbz2.0\obj\Debug\ToCbz2.csproj.CoreCompileInputs.cache
+C:\Users\maya\source\repos\ToCbz2.0\obj\Debug\ToCbz2.0.exe
+C:\Users\maya\source\repos\ToCbz2.0\obj\Debug\ToCbz2.0.pdb
+C:\Users\maya\source\repos\ToCbz2.0\bin\Debug\ToCbz2.0.exe.manifest
+C:\Users\maya\source\repos\ToCbz2.0\bin\Debug\ToCbz2.0.application
+C:\Users\maya\source\repos\ToCbz2.0\obj\Debug\ToCbz2.0.exe.manifest
+C:\Users\maya\source\repos\ToCbz2.0\obj\Debug\ToCbz2.0.application
